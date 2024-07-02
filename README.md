@@ -1,5 +1,10 @@
-# Quizz
+# QUIZZ
 
-HTML _ CSS _ JAVASCRIPT
+**STACK :**
 
-exemple de quizz
+-   HTML 
+-   CSS
+-   JAVASCRIPT
+
+Exemple de quizz
+![alt text](image.png)
